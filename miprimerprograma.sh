@@ -24,3 +24,11 @@ echo "----------------------"
 echo "4.Mostrando de enrutamiento"
 netstat -rn
 echo "---------------------"
+
+# Comprobar ancho de banda usando el test de velocidad por medio de la CLI de Windows
+read -p "Comprobar el ancho de banda con el test de velocidad CLI (y/n): " speedtest_option
+if ["speedtest_option" == "y"]; then
+./speedtestbyookla_x64
+
+fi 
+echo "..................."

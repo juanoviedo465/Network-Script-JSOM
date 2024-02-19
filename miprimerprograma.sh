@@ -13,3 +13,8 @@ echo "tracer router to: $trace_host"
 tracert $remote_host
 echo "......................"
 
+# Display Network Interfaces and Ip Address
+
+echo "3. Displaying Routing Table"
+netstat -rm
+echo "..................."

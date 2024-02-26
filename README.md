@@ -52,7 +52,7 @@ MARKDOWN, GITHUB and SHELLSCRIPT
      <li><a href="https://developer.mozilla.org/es/docs/web/
      HTML">HTML</a></li></ul>
 
-<details>
+
 <summary>Markdown</summary>
 <ul>
 <li><a hret="https://markdown.es/sintaxis-markdown/">Markdown</a></li>
